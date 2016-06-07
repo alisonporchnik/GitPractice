@@ -1,5 +1,5 @@
--lorem ipsum dolor;
--if not now, then when;
--if not when, then now?
--the quick brown fox;
-*is a vegetarian*
+lorem ipsum dolor blah blah blahhttps://github.com/alisonporchnik/GitPractice
+if not now, then when;
+if not when, then now?
+I saw the quick brown fox;
+*he is a vegetarian*
