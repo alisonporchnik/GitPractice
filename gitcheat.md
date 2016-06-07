@@ -1,4 +1,4 @@
-lorem ipsum dolor blah blah blahhttps://github.com/alisonporchnik/GitPractice
+lorem ipsum dolor blah blah blah
 if not now, then when;
 if not when, then now?
 I saw the quick brown fox;
